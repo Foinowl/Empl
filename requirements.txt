@@ -1,0 +1,7 @@
+Django
+django-crispy-forms
+djangorestframework
+names
+Pillow
+pytz
+sqlparse
